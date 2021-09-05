@@ -16,5 +16,5 @@ NOTE: url will be displayed on your phone when you begin the stream
 ### More
 minDist and maxDist should be adjusted by your preference and on your system. Minimum distance represents the distance between your thumb and index finger that will set the volume to 0 
 maxDist represents the exact same thing just to set the volume to 100%
-test.py should be ignored
+test.py should be ignored. 
 url should use http not https or you will get an error
